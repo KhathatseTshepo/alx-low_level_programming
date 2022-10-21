@@ -43,4 +43,3 @@ void print_number(int n)
 		_putchar(numchar + '0');
 		j = j / 10;
 	}
-}
