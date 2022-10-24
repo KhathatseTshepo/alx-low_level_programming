@@ -1,10 +1,6 @@
 #ifndef MAIN_H
 #define MAIN_H
 
-/**
- * prototypes files
- * import them
- * /
 
 #include <stdlib.h>
 
